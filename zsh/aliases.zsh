@@ -29,3 +29,4 @@ fi
 
 # Make sure stuff piped through less retains color
 alias less="less -R"
+alias tb="nc termbin.com 9999"

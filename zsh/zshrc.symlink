@@ -17,6 +17,7 @@ function {
   export PROJECTS="~/code"
   export DEV_PATH="${HOME}/dev"
   export SRC_PATH="${DEV_PATH}/src"
+  export BROWSER="/opt/google/chrome/chrome"
 
   #
   # Zprezto
